@@ -1,0 +1,6 @@
+age
+sex
+bmi
+children
+smoker
+region
